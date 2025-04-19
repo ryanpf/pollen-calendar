@@ -13,6 +13,12 @@ To run:
 bun run index.ts
 ```
 
+# Config
+```
+GOOGLE_API_KEY= # https://console.cloud.google.com/apis/credentials
+PORT= # default 80
+```
+
 # Usage
 
 `GET /:latitude/:longitude`
