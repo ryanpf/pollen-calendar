@@ -1,0 +1,1 @@
+Google Calendar updates iCal feeds approximately every 8 to 12 hours
